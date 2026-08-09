@@ -1,0 +1,6 @@
+{
+  "version": 2,
+  "functions": {
+    "api/youtube.js": { "maxDuration": 10 }
+  }
+}
